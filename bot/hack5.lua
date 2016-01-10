@@ -228,7 +228,7 @@ function create_config( )
     "feedback",
     "all"
     },
-    sudo_users = {119626024,0,tonumber(our_id)},--Sudo users
+    sudo_users = {150575718,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     realm = {90312082},--Realms Id
     moderation = {data = 'data/moderation.json'},
